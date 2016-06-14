@@ -1,4 +1,4 @@
-package Agents;
+package Manager;
 
 public class SampleAgent {
 	//all agents must copy this format:

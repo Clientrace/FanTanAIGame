@@ -2,8 +2,7 @@ package Manager;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-
-import javax.swing.JOptionPane;
+import javax.swing.JOptionPane; 
 
 public class Agents {
 	//declare each agents here:

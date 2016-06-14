@@ -1,4 +1,4 @@
-package Agents;
+package Manager;
 
 import java.util.Random;
 

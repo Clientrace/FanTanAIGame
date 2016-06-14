@@ -2,6 +2,8 @@ package Main;
 
 import javax.swing.JFrame;
 
+import Manager.Agents;
+
 public class Main {
 	public static void main(String args[]){
 		JFrame frame = new JFrame("PEKWA");
@@ -11,5 +13,6 @@ public class Main {
 		frame.setResizable(false);
 		frame.pack();
 		frame.setLocationRelativeTo(null);
+		Agents.init();
 	}
 }
